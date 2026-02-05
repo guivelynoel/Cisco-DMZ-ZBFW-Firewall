@@ -1,11 +1,8 @@
 
-# Cisco Project 02 — DMZ Architecture + Zone-Based Firewall (ZBF) + NAT (Packet Tracer)
+# Cisco Project — DMZ Architecture + Zone-Based Firewall (ZBF) + NAT (Packet Tracer)
 
 This repo is a **real enterprise-style DMZ build** using a Cisco router as the security perimeter.
 It demonstrates how to publish **public services** (Web + DNS) safely in a **DMZ**, while protecting the inside LAN with a **Zone-Based Firewall** and controlled NAT.
-
-> **Interview-ready summary:**  
-> “I built an Inside/DMZ/Outside network, implemented Zone-Based Firewall policies, used static NAT to publish DMZ servers, enforced least-privilege access from the internet, and validated all flows with inspection + logging.”
 
 ---
 
